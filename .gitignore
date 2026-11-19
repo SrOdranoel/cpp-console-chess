@@ -1,0 +1,31 @@
+# MSVC / C++ build artifacts
+build/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exe
+*.exp
+*.lib
+*.dll
+*.idb
+*.res
+*.pch
+*.ipch
+*.log
+*.tlog
+*.manifest
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
